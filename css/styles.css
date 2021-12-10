@@ -64,13 +64,14 @@ body {
   align-items: center;
 }
 
+/* Mensagens */
+
 .message {
   display: none;
   line-height: 2rem;
   text-align: center;
   letter-spacing: -1px;
   font-weight: bold;
-  /* margin-bottom: 1.6rem; */
 }
 
 .message.error,
@@ -80,6 +81,7 @@ body {
 }
 
 .message.error {
+  text-transform: uppercase;
   color: #cc3300;
 }
 
@@ -97,6 +99,8 @@ body {
   gap: 0.3rem;
   margin: 1.6rem 0 3rem;
 }
+
+/* Botão novo jogo */
 
 .btn-new-game {
   display: none;
@@ -122,6 +126,8 @@ body {
   width: 2.4rem;
   height: 2.4rem;
 }
+
+/* Input e Button */
 
 .form-group {
   width: 100%;
@@ -177,4 +183,27 @@ body {
 .btn-submit:disabled {
   cursor: not-allowed;
   background: #dddddd;
+}
+
+@media (max-width: 1000px) {
+  .container {
+    border: 0;
+  }
+}
+
+@media (max-width: 400px) {
+  .header h1 {
+    font-size: 2.4rem;
+    line-height: 2.9rem;
+  }
+
+  .header hr {
+    width: 18rem;
+    background: red;
+  }
+
+  .numbers svg,
+  .adjacent-number svg {
+    width: 5.5rem;
+  }
 }
