@@ -23,13 +23,13 @@ Implementar um jogo para acertar um número obtido através de uma requisição.
 Clone o projeto
 
 ```bash
-  git clone https://github.com/luiz-gustavo0/album-photos.git
+  git clone https://github.com/luiz-gustavo0/teste-studio-sol.git
 ```
 
 Vá até a pasta do projeto
 
 ```bash
-  cd album-photos
+  cd teste-studio-sol
 ```
 
 ## Author
