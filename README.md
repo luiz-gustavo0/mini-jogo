@@ -16,7 +16,7 @@ Implementar um jogo para acertar um número obtido através de uma requisição.
 
 ## Preview
 
-[Álbum de Fotos](https://album-photos-app.netlify.app/)
+[Qual é o número?](https://luiz-gustavo0.github.io/teste-studio-sol/)
 
 ## Como rodal a aplicação localmente
 
