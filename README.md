@@ -18,7 +18,7 @@ Implementar um jogo para acertar um número obtido através de uma requisição.
 
 [Qual é o número?](https://luiz-gustavo0.github.io/teste-studio-sol/)
 
-## Como rodal a aplicação localmente
+## Como rodar a aplicação localmente
 
 Clone o projeto
 
