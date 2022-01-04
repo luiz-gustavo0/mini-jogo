@@ -1,7 +1,5 @@
 # Qual é o número?
 
-Aplicação desenvolvida para o teste técnico do Studio Sol.
-
 ![Imagem](img/game.png)
 
 ## Objetivo
