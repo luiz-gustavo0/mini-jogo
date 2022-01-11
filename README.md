@@ -10,20 +10,20 @@
 
 ## Preview
 
-[Qual é o número?](https://luiz-gustavo0.github.io/teste-studio-sol/)
+[Qual é o número?](https://luiz-gustavo0.github.io/mini-jogo/)
 
 ## Como rodar a aplicação localmente
 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/luiz-gustavo0/teste-studio-sol.git
+  git clone https://github.com/luiz-gustavo0/mini-jogo.git
 ```
 
 Vá até a pasta do projeto
 
 ```bash
-  cd teste-studio-sol
+  cd mini-jogo
 ```
 
 ## Author
