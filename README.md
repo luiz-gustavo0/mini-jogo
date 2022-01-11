@@ -2,10 +2,6 @@
 
 ![Imagem](img/game.png)
 
-## Objetivo
-
-Implementar um jogo para acertar um número obtido através de uma requisição.
-
 ## Tecnologias utilizadas
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
